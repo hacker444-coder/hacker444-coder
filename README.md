@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hacker444-coder
+- 👋 Hi, I’m @Ronish tamang
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
